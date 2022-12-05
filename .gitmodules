@@ -1,0 +1,3 @@
+[submodule "external/LNTouchVisualizer"]
+	path = external/LNTouchVisualizer
+	url = https://github.com/LeoNatan/LNTouchVisualizer.git
