@@ -31,3 +31,6 @@ xcframework:
 
 sharpie:
 	sharpie bind --sdk=$(IOS_SDK) --output="$(BINDING_OUTPUT)" --namespace="Drastic.$(PROJECTNAME)" --scope="$(FRAMEWORKS)/$(PROJECTNAME).xcframework/ios-arm64/$(PROJECTNAME).framework/Headers" $(FRAMEWORKS)/$(PROJECTNAME).xcframework/ios-arm64/$(PROJECTNAME).framework/Headers/*.h
+
+nuget:
+	dotnet pack --configuration Release
