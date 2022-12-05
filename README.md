@@ -2,4 +2,4 @@
 
 # Drastic.LNTouchVisualizer
 
-Drastic.LNTouchVisualizer is binding of [LNTouchVisualizer](https://github.com/LeoNatan/LNTouchVisualizer, a touch visualizing framework for iOS.
+Drastic.LNTouchVisualizer is binding of [LNTouchVisualizer](https://github.com/LeoNatan/LNTouchVisualizer), a touch visualizing framework for iOS.
