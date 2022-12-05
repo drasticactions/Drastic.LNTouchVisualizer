@@ -3,7 +3,7 @@
         <LangVersion>preview</LangVersion>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <Company>Drastic Actions</Company>
         <Copyright>Copyright (C) Drastic Actions</Copyright>
         <IsPackable>false</IsPackable>
@@ -16,8 +16,8 @@
     <PropertyGroup>
     <Authors>$(Company)</Authors>
       <PackageTags>LNTouchVisualizer touch uikit ios mac catalyst</PackageTags>
-      <PackageProjectUrl>https://github.com/drasticactions/Drastic.MBProgressHUD</PackageProjectUrl>
-      <PackageReleaseNotes>https://github.com/drasticactions/Drastic.MBProgressHUD/blob/main/CHANGELOG.md</PackageReleaseNotes>
+      <PackageProjectUrl>https://github.com/drasticactions/Drastic.LNTouchVisualizer</PackageProjectUrl>
+      <PackageReleaseNotes>https://github.com/drasticactions/Drastic.LNTouchVisualizer/blob/main/CHANGELOG.md</PackageReleaseNotes>
       <PackageReadmeFile>README.md</PackageReadmeFile>
       <PackageIcon>favicon.png</PackageIcon>
       <PackageLicenseExpression>MIT</PackageLicenseExpression>
